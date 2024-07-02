@@ -1,0 +1,24 @@
+img {
+	height: 150px;
+	width: 100px;
+}
+.container {
+	display: inline-block;
+}
+.container h2 {
+	display: inline-block;
+	vertical-align: top;
+}
+.container img {
+	display: inline-block;
+	vertical-align: top;
+	}
+.anxiety {
+	color: #fa8b49;
+}
+.envy {
+	color: #74d4c4;
+}
+.embarrassment {
+	color: #e971a5;
+}
